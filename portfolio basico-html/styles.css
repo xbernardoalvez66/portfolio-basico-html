@@ -227,6 +227,8 @@ footer p{
 
 footer img + img{
 	margin-left: 35px;
+	justify-content: center;
+	
 }
 
 @media(max-width: 400px){
